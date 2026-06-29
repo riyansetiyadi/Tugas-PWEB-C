@@ -1,6 +1,6 @@
 # Tugas-PWEB-C
 
-🌐 **URL Web:** https://riyansetiyadi.github.io/tugas-perancangan-website/
+🌐 **URL Web:** [https://riyansetiyadi.github.io/tugas-praktikum-perancangan-website/](https://riyansetiyadi.github.io/tugas-perancangan-website/)
 
 Anda sebagai pengembang frontend web diminta untuk membuat Interaksi pada web anda seperti berikut :
 
