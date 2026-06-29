@@ -1,4 +1,4 @@
-# Tugas-PWEB-C
+# Tugas Perancangan Web
 
 🌐 **URL Web:** [https://riyansetiyadi.github.io/tugas-praktikum-perancangan-website/](https://riyansetiyadi.github.io/tugas-perancangan-website/)
 
